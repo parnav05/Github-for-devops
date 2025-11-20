@@ -14,7 +14,7 @@
   291  git commit -m "add "
   292  git push  origin master
   293  git remote url-u origin 
-  294  git remote set-url origin  https://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@github.com/parnav05/github-for-devops-workshop.git
+ t
   295  git push  origin master
   296  git version 
   297   git init
