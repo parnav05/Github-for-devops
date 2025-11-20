@@ -1,0 +1,49 @@
+[200~78  git pull origin master
+  279  cd
+  280  ls
+  281  cd /parnav
+  282  cd /home
+  283  ls
+  284  cd parnav/
+  285  ls
+  286  cd githu-for-devops/
+  287  ls
+  288  cat commands.txt 
+  289  git ststus
+  290  git status
+  291  git commit -m "add "
+  292  git push  origin master
+  293  git remote url-u origin 
+  294  git remote set-url origin  https://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@github.com/parnav05/github-for-devops-workshop.git
+  295  git push  origin master
+  296  git version 
+  297   git init
+  298  ls
+  299  rm commands.txt command.txt testing.py 
+  300  ls
+  301  rmdir github-for-devops-workshop/ github-for-devops-workshop/
+  302  rmdir github-for-devops-workshop/ github-for-devops-workshop/ -f
+  303  rmdir github-for-devops-workshop/ github-for-devops-workshop/ -r
+  304* 
+  305  ls 
+  306  ls
+  307  cd ..
+  308  ls
+  309  cd githu-for-devops/
+  310  ls
+  311  rm -rf github-for-devops
+  312  ls
+  313   git init
+  314  ls
+  315  cd git-for-devps
+  316  cd ..
+  317  ls
+  318  rmdir githu-for-devops/
+  319  rm -rf githu-for-devops/
+  320  ls
+  321  mkdir github-for-devops
+  322  ls 
+  323  cd github-for-devops/
+  324  ls
+  325  git init
+
